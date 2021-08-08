@@ -18,7 +18,3 @@ $(function(){
     });
 
 });
-
-
-let age = prompt('сколько тебе лет?');
-alert(`тебе ${age}`);
